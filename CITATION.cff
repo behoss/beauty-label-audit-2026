@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Beauty label audit 2026: 1,641 cosmetic ingredient lists decoded"
+type: dataset
+authors:
+  - name: "Beauty Comparison (Bez, editor)"
+doi: 10.5281/zenodo.24356691
+url: "https://beautycomparison.com/research/label-audit"
+license: ODbL-1.0
+date-released: 2026-11-18
