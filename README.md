@@ -56,4 +56,6 @@ DOI: [10.5281/zenodo.24356691](https://doi.org/10.5281/zenodo.24356691)
 
 Also on [Zenodo](https://zenodo.org/records/24356691), [Hugging Face](https://huggingface.co/datasets/beautycomparison/beauty-label-audit-2026) and [Kaggle](https://www.kaggle.com/datasets/beautycomparison/beauty-label-audit-2026).
 
+Every ingredient name in these lists, decoded in plain English with the same 12 family flags: [skincare-ingredients](https://github.com/behoss/skincare-ingredients) (open data, CSV and JSON).
+
 Author: Beauty Comparison (Bez, editor) · https://beautycomparison.com
